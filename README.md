@@ -1,3 +1,1 @@
 # CTI-OS-PREPWORK
-
-hello
