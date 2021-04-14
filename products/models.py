@@ -6,3 +6,4 @@ class Product(models.Model):
     description = models.TextField(blank=True, null=True)
     price = models.DecimalField(max_digits=1000, decimal_places=2)
     summary = models.TextField()
+    featured = models.BooleanField() #null=True is default value
